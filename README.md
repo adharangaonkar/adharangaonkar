@@ -14,7 +14,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/addityad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:dharangaonkar.a@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/addityad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Additya%20Dharangaonkar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:dharangaonkar.a@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-dharangaonkar.a@northeastern.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
