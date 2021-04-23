@@ -16,7 +16,6 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - ⚙️ &nbsp;
-  
   [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
