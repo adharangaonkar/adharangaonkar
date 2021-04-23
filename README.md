@@ -35,7 +35,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   
-- 🛢 &nbsp;![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-aws&logoColor=cyan)
+- 🛢 &nbsp; ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-aws&logoColor=cyan)
   
 <br/>
 
