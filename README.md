@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Systems at Northeastern University.
-- 💼 &nbsp; Worked as a Data Engineering Coop at Commonwealth Care Alliance.
+- 💼 &nbsp; Worked as a Data Science Engineering Coop at Commonwealth Care Alliance.
 - 💼 &nbsp; Worked as a Data Engineer at Hyperware, Pune.
 - 💼 &nbsp; Worked as a Database Management Intern at TN Packaging Pvt Ltd.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Deep Learning.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Data Engineering, Machine Learning and Deep Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
