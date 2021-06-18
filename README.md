@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Bringing Machines closer to Mankind.
 - 🎓 &nbsp; Studying Information Systems at Northeastern University.
 - 💼 &nbsp; Worked as a Data Science Engineering Coop at Commonwealth Care Alliance.
 - 💼 &nbsp; Worked as a Data Engineer at Hyperware, Pune.
