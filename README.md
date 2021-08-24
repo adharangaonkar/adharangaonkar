@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Bringing Machines closer to Mankind.
 - 🎓 &nbsp; Studying Information Systems at Northeastern University.
-- 💼 &nbsp; Worked as a Data Science Engineering Coop at Commonwealth Care Alliance.
-- 💼 &nbsp; Worked as a Data Engineer at Hyperware, Pune.
+- 💼 &nbsp; Worked as a Data Engineer Coop at Commonwealth Care Alliance.
+- 💼 &nbsp; Worked as a Data Scientist at Hyperware, Pune.
 - 💼 &nbsp; Worked as a Database Management Intern at TN Packaging Pvt Ltd.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Deep Learning.
 
