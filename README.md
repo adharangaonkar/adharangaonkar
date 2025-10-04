@@ -38,10 +38,6 @@
 - 🛢 &nbsp;
   ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-aws&logoColor=cyan)
   
-<h3> 👀🏻‍💻 &nbsp;Visitor Count </h3>
-
-<img src="https://profile-counter.glitch.me/adharangaonkar/count.svg" alt="Hello world" />
-  
   
 <br/>
 
