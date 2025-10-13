@@ -1,7 +1,7 @@
 <h2 align="center">Hey there 👋 I'm Additya!</h2>
 
 <p align="center">
-  <em>Data Scientist • Cloud Builder • AI Tinkerer</em>
+  <em>Data Scientist • Cloud Builder • AI Tinkerer • Google Cloud Certified Machine Learning Engineer</em>
 </p>
 
 ---
