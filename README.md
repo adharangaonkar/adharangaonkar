@@ -6,35 +6,40 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🧠 Turning messy data into intelligent systems that *actually* help people.  
-- 🏗️ Currently building RAG-powered apps, vector search pipelines & cloud-native ML systems at **Resultant**.  
-- 💡 Previously built award-winning workforce recommendation engines and healthcare recommender systems.  
-- 🌩️ Passionate about **LangChain**, **Azure**, **GCP**,  and all things scalable.  
-- ☕ Runs on Python and curiosity.
+-  Turning messy data into intelligent systems that *actually* help people.  
+-  Currently building RAG-powered apps, vector search pipelines & cloud-native ML systems at **Resultant**.  
+-  Previously built award-winning workforce recommendation engines and healthcare recommender systems.  
+-  Passionate about **LangChain**, **Azure**, **GCP**,  and all things scalable.  
+-  Runs on Python and curiosity.
 
 ---
 
-### 🛠️ Tech Playground
+###  Tech Playground
 
 **Languages:** Python | SQL | R  
-**ML Stack:** PyTorch | LangChain| LangGraph | Scikit-learn | Pandas | NumPy 
+**ML Stack:** PyTorch | LangChain| LangGraph | Scikit-learn | Pandas | NumPy  
 **Databases:** BigQuery | PostgreSQL | MS SQL | Snowflake | NoSQL  
 **Cloud:** Azure | GCP (Vertex AI)  
 **Tools:** Airflow | Docker | Streamlit | Talend | Tableau | PowerBI
 
 ---
 
-### 🏆 Highlights
+###  Highlights
 
-- 🧩 Built a **LangChain + Azure RAG app** with GPT-4o and Okta SSO for secure enterprise chat.  
-- 🥇 Improved **PIVOT**, Indiana’s *State IT Innovation of the Year* workforce recommender.  
-- 🧮 Developed ML models that improved job seeker wages and reduced state ETL runtimes by 300%.  
+-  **Built an AI assistant** that helps employees find answers instantly — saving hours of search time across company documents.  
+-  **Launched a statewide workforce recommender** that helped job seekers land higher-paying jobs and boost their hourly wages.  
+-  **Streamlined public health data pipelines**, cutting processing time by 300% and enabling faster COVID response decisions.  
+-  **Improved student success** by building a model that accurately identified at-risk students and helped schools intervene early.  
+-  **Enhanced healthcare recommendations**, empowering clinical teams with smarter, data-driven patient insights.  
+-  **Automated secure deployments**, making applications scalable, monitored, and compliant with enterprise standards.  
+-  **Recognized as a Google Cloud Certified Machine Learning Engineer** (2025–2027).  
 
 ---
 
-### 📫 Connect
+
+###  Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/addityad/">
