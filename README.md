@@ -12,7 +12,7 @@
 - 🏗️ Currently building RAG-powered apps, vector search pipelines & cloud-native ML systems at **Resultant**.  
 - 💡 Previously built award-winning workforce recommendation engines and healthcare recommender systems.  
 - 🌩️ Passionate about **LangChain**, **Azure**, **GCP**,  and all things scalable.  
-- ☕ Runs on Python, curiosity, and occasional sarcasm.
+- ☕ Runs on Python and curiosity.
 
 ---
 
